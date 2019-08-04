@@ -1,0 +1,27 @@
+{
+  "name": "NAME",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "async": "^2.4.0",
+    "bufferlist": "^0.1.0",
+    "canvas": "^1.6.5",
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "random-word": "^2.0.0",
+    "snekfetch": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "nikit4ka2",
+  "license": "ISC"
+}
