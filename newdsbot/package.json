@@ -1,0 +1,27 @@
+{
+  "name": "mashibot",
+  "version": "1.0.0",
+  "description": "Mashiro-chan's personal Discord bot",
+  "main": "main.js",
+  "dependencies": {
+    "async": "^2.4.0",
+    "bufferlist": "^0.1.0",
+    "canvas": "^1.6.5",
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "random-word": "^2.0.0",
+    "snekfetch": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mashirochan/mashibotdiscord/tree/master"
+  },
+  "author": "Mashiro-chan",
+  "license": "ISC"
+}
